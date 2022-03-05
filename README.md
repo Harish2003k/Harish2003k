@@ -1,4 +1,4 @@
-### <h1 bg-color:red;>Hi I am Harish Kumar gupta from lucknow Uttar Pradesh ....👋</h1>
+### <h1>Hi I AM HARISH KUMAR GUPTA FROM LUCKNOW UTTAR PRADESH ....👋</h1>
 
 <!--
 **Harish2003k/Harish2003k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
