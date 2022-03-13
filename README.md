@@ -5,10 +5,9 @@
 
 <h2>CSS</h2>![css](https://user-images.githubusercontent.com/88849351/158073291-23dd14f0-1c43-4038-9e5a-259234679633.jpeg)
 
-<h3>JAVASCRIPT![javascript](https://user-images.githubusercontent.com/88849351/158073376-de44c278-7c34-40b6-9f54-2b50dff2a3b5.jpeg)
-</h3> 
-<h4>JAVA</h4![jaVA](https://user-images.githubusercontent.com/88849351/158073371-36ee1113-62d9-4314-8295-e7fbd6aa78c8.jpeg)
->
+<h3>JAVASCRIPT</h3>![javascript](https://user-images.githubusercontent.com/88849351/158073376-de44c278-7c34-40b6-9f54-2b50dff2a3b5.jpeg)
+<h4>JAVA</h4>![jaVA](https://user-images.githubusercontent.com/88849351/158073371-36ee1113-62d9-4314-8295-e7fbd6aa78c8.jpeg)
+
 <P> WELCOME TO MY REPO.........</P>
 
 <!--
