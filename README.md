@@ -1,7 +1,7 @@
 <h1>Hi I AM HARISH KUMAR GUPTA FROM LUCKNOW UTTAR PRADESH ,INDIA....👋</h1>
 <h1>Specialist Knowledge Of A Variety Of Programming Languages, Software Design, Information Systems, Databases And Software Architecture</h1>
 <h1>I'm familiar with most of computer language are...</h1>
-<h1>HTML</h1></br><h1>CSS</h1></br><h1>JAVASCRIPT</h1></br><h1>JAVA</h1>
+<h1>HTML</h></br><h2>CSS</h2></br><h3>JAVASCRIPT</h3></br><h4>JAVA</h4>
 <P> WELCOME TO MY REPO.........</P>
 
 <!--
