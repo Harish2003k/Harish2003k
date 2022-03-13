@@ -1,4 +1,5 @@
-### <h1>Hi I AM HARISH KUMAR GUPTA FROM LUCKNOW UTTAR PRADESH ,INDIA....👋</h1>
+<h1>### Hi I AM HARISH KUMAR GUPTA FROM LUCKNOW UTTAR PRADESH ,INDIA....👋###</h1>
+<h1>Specialist Knowledge Of A Variety Of Programming Languages, Software Design, Information Systems, Databases And Software Architecture</h1>
 <P> WELCOME TO MY REPO.........</P>
 
 <!--
