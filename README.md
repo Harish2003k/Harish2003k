@@ -1,8 +1,8 @@
 <h1>Hi I AM HARISH KUMAR GUPTA FROM LUCKNOW UTTAR PRADESH ,INDIA....👋</h1>
-<h1>Specialist Knowledge Of A Variety Of Programming Languages, Software Design, Information Systems, Databases And Software Architecture</h1>
+<h1>SPECIALIST KNOWLEDGE OF A VARIETY OF PROGRAMMING LANGUAGE, SOFTWARE DESIGN, INFORMATION SYSTEM, DATABASEES AND SOFTWARE ARCHITECTURE</h1>
 <h1>I'm familiar with most of computer language are...</h1>
 
-<P> WELCOME TO MY REPO.........</P>
+<h1> WELCOME TO MY REPO.........</h1>
 
 <!--
 **Harish2003k/Harish2003k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
