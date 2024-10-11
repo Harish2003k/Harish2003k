@@ -1,8 +1,5 @@
 #### Hi, I'm Harish Kumar Gupta
 I'm passionate about building robust, scalable software solutions. With a focus on clean code and efficient development practices, I specialize in Java, SQL, and web development. I enjoy collaborating with teams using modern tools like Git and Jira to ensure smooth project management. My experience includes creating web applications, integrating databases, and applying agile methodologies to deliver high-quality projects on time. I'm always excited to learn and implement new technologies in software development.
-Software Engineer sharing about my journey and learnings in tech<br/>
-Studied B.Tech Computer Science at Babu Banarasi Das University, India<br/>
-Currently learning about Data Analytics</br>
 [![Harish2003k](https://github-readme-stats.vercel.app/api?username=harish2003k&theme=dark&show_icons=true)](https://github.com/harish2003k/github-readme-stats)
 
 ## 🌐 Socials:
