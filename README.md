@@ -19,8 +19,8 @@
 
 </div>
 <div align="center">
-<img align="center" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</div>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 public class HarishKumarGupta {
 
     public static void main(String[] args) {
@@ -47,7 +47,7 @@ public class HarishKumarGupta {
     }
 }
 
-
+</div>
 
 
 ## 🌐 Socials:
