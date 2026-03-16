@@ -20,7 +20,14 @@
 <div align="center">
 
   <table>
-    
+      </td>
+      <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+             width="380" 
+             height="380" 
+             style="border-radius: 10px; object-fit: cover;">
+      </td>
       <td width="50%" align="left">
         
           
@@ -48,14 +55,7 @@
             }
         }
         ```
-      </td>
-      <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-             width="380" 
-             height="380" 
-             style="border-radius: 10px; object-fit: cover;">
-      </td>
+    
     </tr>
   </table>
 </div>
