@@ -17,8 +17,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=harish2003k&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/harish2003k?style=for-the-badge&color=blue&labelColor=000000)
 
-<div align="center">
-
  <div align="center">
   <div style="display: flex; gap: 25px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
     
