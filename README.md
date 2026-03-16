@@ -17,6 +17,92 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=harish2003k&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/harish2003k?style=for-the-badge&color=blue&labelColor=000000)
 
+<div align="center">
+  <h1>Hi, I'm Harish Kumar Gupta 👋</h1>
+  <h3>Software Developer | Java & Spring Boot Enthusiast</h3>
+  
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+</div>
+
+<hr/>
+
+<!-- Side by Side Layout -->
+<table>
+  <tr>
+    <!-- Left Column: Image -->
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+           width="100%" 
+           style="max-width: 400px; border-radius: 10px;" 
+           alt="Coding Animation"/>
+    </td>
+    
+    <!-- Right Column: Code Snippet (Using HTML pre tag for table compatibility) -->
+    <td width="50%" align="left">
+      <pre style="background: #0d1117; padding: 15px; border-radius: 8px; overflow-x: auto; color: #c9d1d9; font-size: 12px;">
+<span style="color: #ff7b72;">public class</span> <span style="color: #d2a8ff;">HarishKumarGupta</span> {
+  
+  <span style="color: #ff7b72;">private static final</span> String name = <span style="color: #a5d6ff;">"Harish Kumar Gupta"</span>;
+  <span style="color: #ff7b72;">private static final</span> String role = <span style="color: #a5d6ff;">"Software Developer"</span>;
+  <span style="color: #ff7b72;">private static final</span> String location = <span style="color: #a5d6ff;">"India 🇮🇳"</span>;
+
+  <span style="color: #ff7b72;">public void</span> <span style="color: #d2a8ff;">build</span>() {
+    System.out.println(<span style="color: #a5d6ff;">"🚀 Building scalable microservices..."</span>);
+    System.out.println(<span style="color: #a5d6ff;">"☕ Fueled by coffee & clean code."</span>);
+  }
+
+  <span style="color: #ff7b72;">public static void</span> <span style="color: #d2a8ff;">main</span>(String[] args) {
+    <span style="color: #ff7b72;">new</span> HarishKumarGupta().build();
+  }
+}</pre>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/>
+</div>
+
+<hr/>
+
+<!-- Contact Section -->
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>I'm currently open to new opportunities and collaborations.</p>
+  
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
  <div align="center">
   <div style="display: flex; gap: 25px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
     
