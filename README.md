@@ -16,6 +16,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=harish2003k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+📊 GitHub Statistics
+<div align="center"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=harish2003k&show_icons=true&count_private=true&hide_border=true&title_color=3DDCFF&icon_color=3DDCFF&text_color=c9d1d9&bg_color=0d1117" alt="Harish Kumar Gupta github stats" /> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish2003k&layout=compact&hide_border=true&title_color=3DDCFF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" /></div><div align="center">
+GitHub Streak
+
+</div><div align="center">
+Activity Graph
+
+</div>
 [![](https://visitcount.itsvg.in/api?id=harish2003k&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
