@@ -18,9 +18,6 @@
 ![Followers](https://img.shields.io/github/followers/harish2003k?style=for-the-badge&color=blue&labelColor=000000)
 
 <div align="center">
-  <h1>Hi, I'm Harish Kumar Gupta 👋</h1>
-  <h3>Software Developer | Java & Spring Boot Enthusiast</h3>
-  
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -32,7 +29,6 @@
 </div>
 
 <hr/>
-
 <!-- Side by Side Layout -->
 <table>
   <tr>
@@ -74,16 +70,16 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=harish2003k&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish2003kE&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="100%"/>
       </td>
     </tr>
   </table>
   
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish2003k&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
 
 <hr/>
@@ -93,51 +89,19 @@
   <h3>🤝 Let's Connect</h3>
   <p>I'm currently open to new opportunities and collaborations.</p>
   
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:harishkumargupta2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGrmS_Mu_hgVAAAAZz4CfyQ1C-lRUu3s2KxuLlaH_dMny8G-pSvaL8iP2hEd9euTrJEmYQvCWCS2wZTWgUA1FG6qVqWG5JcEQDRVJrdYUvdSZJQ_u8MpmZQ1fyi8uDbOr5N-K0=&original_referer=https://harish2003k.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fharish-kumar-gupta-8b87a7229)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="[https://your-portfolio.com](https://harish2003k.github.io/Harish/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
  <div align="center">
   <div style="display: flex; gap: 25px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
     
-    <div style="flex: 1; min-width: 380px;">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-           width="380" height="380" style="border-radius: 12px;">
-    </div>
-    
-    <div style="flex: 1; min-width: 380px;">
-     public class HarishKumarGupta {
-            public static void main(String[] args) {
-                String name = "Harish Kumar Gupta";
-                String role = "Software Developer";
-                String location = "India 🇮🇳";
-                
-                String[] skills = {
-                    "Java", "Spring Boot", "React",
-                    "MySQL", "Redis", "Docker", "AWS"
-                };
-                
-                String[] currentFocus = {
-                    "Building scalable microservices",
-                    "System design & architecture",
-                    "Performance optimization"
-                };
-                
-                boolean openToWork = true;
-                boolean coffeeAddict = true;
-                
-                System.out.println("Let's build something amazing! ☕");
-            }
-        }
-    </div>
-    
-  </div>
 </div>
 
 ## 🌐 Socials:
