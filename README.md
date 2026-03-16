@@ -17,9 +17,47 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=harish2003k&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/harish2003k?style=for-the-badge&color=blue&labelColor=000000)
 
-</div>
 <div align="center">
-<img align="right" with="325" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+             width="380" 
+             height="380" 
+             style="border-radius: 10px; object-fit: cover;">
+      </td>
+      <td width="50%" align="left">
+        ```java
+          
+        public class HarishKumarGupta {
+            public static void main(String[] args) {
+                String name = "Harish Kumar Gupta";
+                String role = "Software Developer";
+                String location = "India 🇮🇳";
+                
+                String[] skills = {
+                    "Java", "Spring Boot", "React",
+                    "MySQL", "Redis", "Docker", "AWS"
+                };
+                
+                String[] currentFocus = {
+                    "Building scalable microservices",
+                    "System design & architecture",
+                    "Performance optimization"
+                };
+                
+                boolean openToWork = true;
+                boolean coffeeAddict = true;
+                
+                System.out.println("Let's build something amazing! ☕");
+            }
+        }
+        ```
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 
