@@ -1,6 +1,59 @@
 # 💫 About Me:
 👋 Hi, I'm Harish Kumar Gupta<br><br>💻 Software Developer | Flutter | SQL | Full-Stack Development<br><br>Passionate about building robust, scalable, and efficient software solutions.<br>I focus on writing clean code, optimizing performance, and delivering high-quality applications using modern development tools.<br><br>I enjoy working on web applications, backend systems, and database integrations, while collaborating with teams using Agile methodologies and modern version control systems.<br><br>🚀 Always learning new technologies and improving my development skills.<br><br>🌐 Portfolio<br>https://harish2003k.github.io/Harish/<br>🔗 Portfolio Website<br>https://harish2003k.github.io/Harish/<br> “Code. Build. Learn. Repeat.”
 
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20Kumar%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Backend%20Engineer%20|%20Full-Stack%20Developer&descAlignY=52&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3DDCFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%E2%9A%A1+Passionate+About+Clean+Code+%26+Performance;%F0%9F%8C%9F+Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harish2003k.github.io/Harish/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish2003k)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishkumargupta2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harish2003k)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harish2003k&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/harish2003k?style=for-the-badge&color=blue&labelColor=000000)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```java
+public class HarishKumarGupta {
+
+    public static void main(String[] args) {
+        
+        String name = "Harish Kumar Gupta";
+        String role = "Software Developer";
+        String location = "India 🇮🇳";
+        
+        String[] skills = {
+            "Java", "Spring Boot", "React",
+            "MySQL", "Redis", "Docker", "AWS"
+        };
+        
+        String[] currentFocus = {
+            "Building scalable microservices",
+            "System design & architecture",
+            "Performance optimization"
+        };
+        
+        boolean openToWork = true;
+        boolean coffeeAddict = true;
+        
+        System.out.println("Let's build something amazing!");
+    }
+}
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish2003k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish2003k) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/harish2003k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harish2003k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harish2003k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishkumargupta2003@gmail.com) 
