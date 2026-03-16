@@ -54,9 +54,8 @@
                 System.out.println("Let's build something amazing! ☕");
             }
         }
-        ```
-    
     </tr>
+    
   </table>
 </div>
 
