@@ -55,7 +55,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=harish2003k&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish2003kE&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish2003k&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="100%"/>
       </td>
     </tr>
   </table>
