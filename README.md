@@ -39,21 +39,7 @@
            style="max-width: 400px; border-radius: 10px;" 
            alt="Coding Animation"/>
     </td>
-<span style="color: #ff7b72;">public class</span> <span style="color: #d2a8ff;">HarishKumarGupta</span> {
-  
-  <span style="color: #ff7b72;">private static final</span> String name = <span style="color: #a5d6ff;">"Harish Kumar Gupta"</span>;
-  <span style="color: #ff7b72;">private static final</span> String role = <span style="color: #a5d6ff;">"Software Developer"</span>;
-  <span style="color: #ff7b72;">private static final</span> String location = <span style="color: #a5d6ff;">"India 🇮🇳"</span>;
-
-  <span style="color: #ff7b72;">public void</span> <span style="color: #d2a8ff;">build</span>() {
-    System.out.println(<span style="color: #a5d6ff;">"🚀 Building scalable microservices..."</span>);
-    System.out.println(<span style="color: #a5d6ff;">"☕ Fueled by coffee & clean code."</span>);
-  }
-
-  <span style="color: #ff7b72;">public static void</span> <span style="color: #d2a8ff;">main</span>(String[] args) {
-    <span style="color: #ff7b72;">new</span> HarishKumarGupta().build();
-  }
-}</pre>
+</pre>
     </td>
   </tr>
 </table>
