@@ -77,7 +77,7 @@
   <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGrmS_Mu_hgVAAAAZz4CfyQ1C-lRUu3s2KxuLlaH_dMny8G-pSvaL8iP2hEd9euTrJEmYQvCWCS2wZTWgUA1FG6qVqWG5JcEQDRVJrdYUvdSZJQ_u8MpmZQ1fyi8uDbOr5N-K0=&original_referer=https://harish2003k.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fharish-kumar-gupta-8b87a7229)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://your-portfolio.com](https://harish2003k.github.io/Harish/)">
+  <a href="[[https://your-portfolio.com](/)](https://harish2003k.github.io/Harish)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -100,14 +100,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=harish2003k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-📊 GitHub Statistics
-<div align="center"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=harish2003k&show_icons=true&count_private=true&hide_border=true&title_color=3DDCFF&icon_color=3DDCFF&text_color=c9d1d9&bg_color=0d1117" alt="Harish Kumar Gupta github stats" /> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish2003k&layout=compact&hide_border=true&title_color=3DDCFF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" /></div><div align="center">
-GitHub Streak
-
-</div><div align="center">
-Activity Graph
-
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
