@@ -39,10 +39,6 @@
            style="max-width: 400px; border-radius: 10px;" 
            alt="Coding Animation"/>
     </td>
-    
-    <!-- Right Column: Code Snippet (Using HTML pre tag for table compatibility) -->
-    <td width="50%" align="left">
-      <pre style="background: #0d1117; padding: 15px; border-radius: 8px; overflow-x: auto; color: #c9d1d9; font-size: 12px;">
 <span style="color: #ff7b72;">public class</span> <span style="color: #d2a8ff;">HarishKumarGupta</span> {
   
   <span style="color: #ff7b72;">private static final</span> String name = <span style="color: #a5d6ff;">"Harish Kumar Gupta"</span>;
