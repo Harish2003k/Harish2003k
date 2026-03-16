@@ -19,19 +19,16 @@
 
 <div align="center">
 
-  <table>
-      </td>
-      <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-             width="380" 
-             height="380" 
-             style="border-radius: 10px; object-fit: cover;">
-      </td>
-      <td width="50%" align="left">
-        
-          
-        public class HarishKumarGupta {
+ <div align="center">
+  <div style="display: flex; gap: 25px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
+    
+    <div style="flex: 1; min-width: 380px;">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+           width="380" height="380" style="border-radius: 12px;">
+    </div>
+    
+    <div style="flex: 1; min-width: 380px;">
+     public class HarishKumarGupta {
             public static void main(String[] args) {
                 String name = "Harish Kumar Gupta";
                 String role = "Software Developer";
@@ -54,9 +51,9 @@
                 System.out.println("Let's build something amazing! ☕");
             }
         }
-    </tr>
+    </div>
     
-  </table>
+  </div>
 </div>
 
 ## 🌐 Socials:
