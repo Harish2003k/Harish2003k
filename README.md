@@ -19,7 +19,7 @@
 
 </div>
 <div align="center">
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="center" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </div>
 public class HarishKumarGupta {
 
