@@ -20,15 +20,9 @@
 <div align="center">
 
   <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-             width="380" 
-             height="380" 
-             style="border-radius: 10px; object-fit: cover;">
-      </td>
+    
       <td width="50%" align="left">
-        ```java
+        
           
         public class HarishKumarGupta {
             public static void main(String[] args) {
@@ -55,33 +49,16 @@
         }
         ```
       </td>
+      <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+             width="380" 
+             height="380" 
+             style="border-radius: 10px; object-fit: cover;">
+      </td>
     </tr>
   </table>
-
 </div>
-
-
-
-    public class HarishKumarGupta {
-    public static void main(String[] args) {
-        String name = "Harish Kumar Gupta";
-        String role = "Software Developer";
-        String location = "India 🇮🇳";
-        String[] skills = {
-            "Java", "Spring Boot", "React",
-            "MySQL", "Redis", "Docker", "AWS"
-        };
-        String[] currentFocus = {
-            "Building scalable microservices",
-            "System design & architecture",
-            "Performance optimization"
-        };
-        boolean openToWork = true;
-        boolean coffeeAddict = true;
-        System.out.println("Let's build something amazing!");
-    }
-    }
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish2003k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish2003k) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/harish2003k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harish2003k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harish2003k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishkumargupta2003@gmail.com) 
