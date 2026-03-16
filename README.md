@@ -21,7 +21,10 @@
 <div align="center">
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </div>
+
 public class HarishKumarGupta {
+
+    public class HarishKumarGupta {
     public static void main(String[] args) {
         String name = "Harish Kumar Gupta";
         String role = "Software Developer";
@@ -38,6 +41,7 @@ public class HarishKumarGupta {
         boolean openToWork = true;
         boolean coffeeAddict = true;
         System.out.println("Let's build something amazing!");
+    }
     }
 }
 
