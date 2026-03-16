@@ -1,6 +1,4 @@
 # 💫 About Me:
-👋 Hi, I'm Harish Kumar Gupta<br><br>💻 Software Developer | Flutter | SQL | Full-Stack Development<br><br>Passionate about building robust, scalable, and efficient software solutions.<br>I focus on writing clean code, optimizing performance, and delivering high-quality applications using modern development tools.<br><br>I enjoy working on web applications, backend systems, and database integrations, while collaborating with teams using Agile methodologies and modern version control systems.<br><br>🚀 Always learning new technologies and improving my development skills.<br><br>🌐 Portfolio<br>https://harish2003k.github.io/Harish/<br>🔗 Portfolio Website<br>https://harish2003k.github.io/Harish/<br> “Code. Build. Learn. Repeat.”
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20Kumar%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Backend%20Engineer%20|%20Full-Stack%20Developer&descAlignY=52&descSize=18)
@@ -21,13 +19,8 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
 public class HarishKumarGupta {
 
     public static void main(String[] args) {
@@ -53,6 +46,8 @@ public class HarishKumarGupta {
         System.out.println("Let's build something amazing!");
     }
 }
+
+
 
 
 ## 🌐 Socials:
