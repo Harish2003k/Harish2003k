@@ -134,6 +134,6 @@
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-**⭐⭐ From [harish2003k](https://github.com/harish2003k) ⭐⭐**
+**⭐ From [harish2003k](https://github.com/harish2003k)**
 
 </div>
